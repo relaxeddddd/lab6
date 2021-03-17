@@ -16,7 +16,7 @@ body{
 	top:100px;
 	}
 	#content{
-	background:oldlace;
+	background-color: aqua;
 	width:525px;
 	height:300px;
 	}
@@ -25,3 +25,11 @@ body{
 	width:715px;
 	height:30px;
 	}
+#news{
+	background:yellow;
+	width:150px;
+	height:280px;
+	position: relative;
+	left:550px;
+	bottom: 10px;
+}
